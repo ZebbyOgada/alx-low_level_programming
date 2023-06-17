@@ -1,13 +1,8 @@
-/*This is the header file*/
 #include <stdio.h>
-/**
- * this program returns a zero for succes
- * and otherwise
+/** This program demonstates the usage of puts instruction
+ *@reurns 0 if successful
+ *otherwise it returns void
  */
-int main(void)
-{
-/*the value returns  a zero for a success*/
+int main(void){
 puts("\"Programming is like building a multilingual puzzle");
-/* value returns a zero value*/
-return (0);
-}
+return (0)
