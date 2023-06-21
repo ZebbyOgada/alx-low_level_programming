@@ -1,8 +1,8 @@
 #include "main.h"
-/** 
+/**
  * main -Entry point of the program
- *  _putchar function - prints a string
- *  Return: Always 0
+ *	_putchar function - prints a string
+ *	Return: Always 0
  */
 /*main - this program print a putchar*/
 /*Return: 0(Success) for putchar*/
