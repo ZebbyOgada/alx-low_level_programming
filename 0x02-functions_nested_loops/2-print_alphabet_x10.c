@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet_x10 - Prints the alphabet in lowercase ten times
- *                      followed by a new line.
+ *	followed by a new line.
  * Return: void
  */
 void print_alphabet_x10(void)
@@ -12,13 +12,12 @@ void print_alphabet_x10(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		letter = 'a';
-		while (letter <= 'z')
-		{
-			_putchar(letter);
-			letter++;
-		}
+	letter = 'a';
+	while (letter <= 'z')
+	{
+	_putchar(letter);
+	letter++;
 	}
-
 	_putchar('\n');
+	}
 }
