@@ -1,1 +1,1 @@
-This project covers loops
+This is all about loops
