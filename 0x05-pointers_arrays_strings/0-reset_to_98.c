@@ -6,8 +6,6 @@
  *
  * @n: is an nput pointer
  *
- * reset_to_98(int *n)- header prototype
- *
  * Return: 0 for success , otherwise return 1
  */
 
