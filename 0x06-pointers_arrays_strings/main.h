@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+char *_strncat(char *dest, char *src, int n);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
