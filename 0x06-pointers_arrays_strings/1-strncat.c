@@ -27,7 +27,7 @@ char *_strncat(char *dest, const char *src, int n)
     }
 
     /* Add a terminating null byte */
-    *ptr = '\0';
+  /*  *ptr = '\0';*/
 
     return (dest);
 }
